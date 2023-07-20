@@ -43,7 +43,7 @@ const routes = [
     name: 'Video Generation',
     icon: Video,
     href: '/video',
-    color: 'text-rose-500',
+    color: 'text-orange-500',
   },
   {
     name: 'Music Generation',
